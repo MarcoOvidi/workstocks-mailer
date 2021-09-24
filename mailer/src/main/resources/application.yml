@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: WorkStocks Mailer
+  profiles:
+    active: dev
+
+workstocks:
+  dateformat: dd/MM/yyyy

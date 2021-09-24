@@ -1,0 +1,2 @@
+workstocks-mailer:
+  broker-url: tcp://localhost:61616
